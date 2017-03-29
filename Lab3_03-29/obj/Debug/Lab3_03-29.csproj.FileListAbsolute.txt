@@ -1,0 +1,6 @@
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\bin\Debug\Lab3_03-29.exe.config
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\bin\Debug\Lab3_03-29.exe
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\bin\Debug\Lab3_03-29.pdb
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\obj\Debug\Lab3_03-29.csprojResolveAssemblyReference.cache
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\obj\Debug\Lab3_03-29.exe
+c:\users\mike spisich\documents\visual studio 2015\Projects\Lab3_03-29\Lab3_03-29\obj\Debug\Lab3_03-29.pdb
